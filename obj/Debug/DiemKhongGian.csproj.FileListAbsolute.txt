@@ -1,0 +1,16 @@
+C:\MyClouds\OneDrive\Desktop\Đặng Huy\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.exe.config
+C:\MyClouds\OneDrive\Desktop\Đặng Huy\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.exe
+C:\MyClouds\OneDrive\Desktop\Đặng Huy\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.pdb
+C:\MyClouds\OneDrive\Desktop\Đặng Huy\Diem2D_Hung\obj\Debug\DiemKhongGian.csprojAssemblyReference.cache
+C:\MyClouds\OneDrive\Desktop\Đặng Huy\Diem2D_Hung\obj\Debug\SoPhuc_DangHuy.exe
+C:\MyClouds\OneDrive\Desktop\Đặng Huy\Diem2D_Hung\obj\Debug\SoPhuc_DangHuy.pdb
+D:\New folder\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.exe.config
+D:\New folder\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.exe
+D:\New folder\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.pdb
+D:\New folder\Diem2D_Hung\obj\Debug\DiemKhongGian.csprojAssemblyReference.cache
+D:\New folder\Diem2D_Hung\obj\Debug\DiemKhongGian.csproj.CoreCompileInputs.cache
+D:\New folder\Diem2D_Hung\obj\Debug\SoPhuc_DangHuy.exe
+D:\New folder\Diem2D_Hung\obj\Debug\SoPhuc_DangHuy.pdb
+C:\Users\A515\Downloads\Diem2D_Hung\bin\Debug\SoPhuc_DangHuy.exe.config
+C:\Users\A515\Downloads\Diem2D_Hung\obj\Debug\SoPhuc_DangHuy.exe
+C:\Users\A515\Downloads\Diem2D_Hung\obj\Debug\SoPhuc_DangHuy.pdb
